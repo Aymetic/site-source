@@ -23,8 +23,8 @@ a {
 }
 
 @font-face{
-  font-family:'Jetbrains' ;  /* 字体名自定义即可 */
-  src:url('https://cdn.jsdelivr.net/gh/Aymetic/site-source/font/JetBrainsMono-Regular.woff2') format('woff2');
+  font-family:'JetBrains' ;  /* 字体名自定义即可 */
+  src:url('https://cdn.jsdelivr.net/gh/Aymetic/site-source/font/JetBrains.woff2') format('woff2');
   font-display : swap;
 }
 
