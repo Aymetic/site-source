@@ -22,6 +22,12 @@ a {
   font-display : swap;
 }
 
+@font-face{
+  font-family:'Jetbrains' ;  /* 字体名自定义即可 */
+  src:url('https://cdn.jsdelivr.net/gh/Aymetic/site-source/font/JetBrainsMono-Regular.woff2') format('woff2');
+  font-display : swap;
+}
+
 /* 修改tips样式 */
 .tip {
     position: relative;
