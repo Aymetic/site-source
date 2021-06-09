@@ -15,11 +15,19 @@ a {
     color: #00c4b6;
 }
 
-@font-face{
+/*@font-face{
   font-family:'JinKai' ;  /* 字体名自定义即可 */
   /*src:url('/font/JinKai.ttf'); /* 字体文件路径 */
-  src:url('https://cdn.jsdelivr.net/gh/Aymetic/site-source/font/JinKai.ttf');
+/*  src:url('https://cdn.jsdelivr.net/gh/Aymetic/site-source/font/JinKai.ttf');
   font-display : swap;
+}*/
+
+@font-face {
+    font-family: 'Lile';
+    /* 字体名自定义即可 */
+    /*src:url('/font/JinKai.ttf'); /* 字体文件路径 */
+    src: url('https://cdn.jsdelivr.net/gh/Aymetic/site-source/font/lile.ttf');
+    font-display: swap;
 }
 
 @font-face{
